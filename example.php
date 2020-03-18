@@ -1,5 +1,6 @@
 <?php
 
+// load autoload composer and library
 require_once __DIR__. '/vendor/autoload.php';
 require_once 'CreatioIntegrationPHP.php';
 
